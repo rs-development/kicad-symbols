@@ -684,6 +684,12 @@ K Gate Driver
 F https://www.infineon.com/dgdl/Infineon-IRS2890DS-DS-v01_00-EN.pdf?fileId=5546d4625a888733015aad6fbc8a4bf4
 $ENDCMP
 #
+$CMP LM5106
+D Half-Bridge Gate Driver, Output Current 1.2A, 100V, Programmable Dead-Time, WSON-8
+K Half-Bridge Gate Driver
+F http://www.ti.com/lit/ds/symlink/lm5106.pdf
+$ENDCMP
+#
 $CMP LM5109AMA
 D Half-Bridge Gate Driver, Output Current 1.0A, 100V, SOIC-8
 K Half-Bridge Gate Driver
